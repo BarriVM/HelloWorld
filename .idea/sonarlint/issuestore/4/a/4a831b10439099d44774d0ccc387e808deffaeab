@@ -1,0 +1,15 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8‹ŸÿŸ…/
+X
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8§æ±‡…/
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8‹ŸÿŸ…/
+P
+java:S1128"3Remove this unused import 'java.net.URLConnection'.(š¿šó8‹ŸÿŸ…/
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8‹ŸÿŸ…/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œ™Òøÿÿÿÿ8Î·÷……/
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8‹ŸÿŸ…/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ĞóÈ­8å¸±†…/
